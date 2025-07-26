@@ -9,7 +9,7 @@ on:
         default: 'https://transfer.sh/(RECOMMENDED)'
 
 env:
-  RECOVERY_URL: https://oshi.at/Rpjg
+  RECOVERY_URL: https://limewire.com/decrypt/download?downloadId=e0cf4d16-13d3-4bec-b856-2ce03d3fbc88
 
 jobs:
   build:
